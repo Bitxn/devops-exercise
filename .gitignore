@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pipeline deploy artifacts
+python-app-deploy/
+*.log
+*.pid
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
